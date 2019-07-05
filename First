@@ -1,0 +1,7 @@
+import numpy as np
+import pandas as pd
+
+
+url = "http://ichart.yahoo.com/table.csv?s=MSFT&a=0&b=1&c=2009"
+data = pd.read_csv(url, parse_dates=["Date"])
+data.plot(x="Date", y="Close")
