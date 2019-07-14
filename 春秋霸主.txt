@@ -1,2 +1,5 @@
-android系统架构
+﻿android系统架构
 分从下往上为linux 内核层、运行库、应用程序框架层、和应用程序层。
+
+
+dhgfjgklhhlll;jhjkghjffgjhkjkl;tyuiop
